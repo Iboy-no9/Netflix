@@ -9,10 +9,10 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      {/* <Banner/>
+       <Banner/>
       <RowPoster url={orginals} title='Netflix Originals'/>
       <RowPoster url={acitons} title='Action' isSmall/>
-      <RowPoster url={horror} title='Horror' isSmall/> */}
+      <RowPoster url={horror} title='Horror' isSmall/> 
     </div>
   );
 }
